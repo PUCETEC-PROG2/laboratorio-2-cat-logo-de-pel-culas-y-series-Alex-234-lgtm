@@ -1,0 +1,33 @@
+<section>
+    <h2>Iron Man</h2>
+    
+    <!-- Portada -->
+    <img !](image.png)" alt="Portada de Iron Man">
+    
+    <!-- Sinopsis -->
+    <p>
+        Descripción o sinopsis de la película/serie...
+    </p>
+    
+    <!-- Características -->
+    <ul>
+        <li>Director: [Nombre]</li>
+        <li>Año: [YYYY]</li>
+        <li>Género: [Género]</li>
+        <li>Duración: [XXX min]</li>
+    </ul>
+    
+    <!-- Tráiler -->
+    <h3>Tráiler</h3>
+    <video controls width="100%">
+        <source src="assets/video/trailer.mp4" type="video/mp4">
+        Tu navegador no soporta el elemento video.
+    </video>
+    
+    <!-- Banda Sonora -->
+    <h3>Tema Principal</h3>
+    <audio controls>
+        <source src="assets/audio/theme.mp3" type="audio/mpeg">
+        Tu navegador no soporta el elemento audio.
+    </audio>
+</section>
